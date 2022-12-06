@@ -1,2 +1,2 @@
 # adonis-tasks-api
-Creating an API using Adonis 5 for an existing database
+Creating an API using Adonis 5 for an existing SQL database
